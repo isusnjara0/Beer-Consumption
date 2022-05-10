@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 
-Predviđanje potrošnje pive (izmišljeni podaci)
+Predviđanje potrošnje pive
 
 @author: Ivan Šušnjara
 """
